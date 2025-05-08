@@ -21,7 +21,6 @@ Graz, Austria (Remote-Ready)
 | ------- | ---- | ----------- |
 | [**cms-bundle**](https://github.com/ahmad-dadoush/cms-bundle) | Symfony, PHP | A modular Symfony bundle for dynamic page components and custom fields. |
 | [**ts-widget**](https://github.com/ahmad-dadoush/ts-widget) | TypeScript, Vite | A vanilla-TS page builder widget with event-driven API and unit tests. |
-| [**ai-cli**](https://github.com/ahmad-dadoush/ai-cli) | Node.js, OpenAI API | A simple CLI tool to interact with ChatGPT, complete with CI/CD and badge. |
 | [**expo-sample**](https://github.com/ahmad-dadoush/expo-sample) | React Native, Expo | A demo mobile app showcasing basic navigation, theming & API calls. |
 
 ---
