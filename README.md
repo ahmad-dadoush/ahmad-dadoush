@@ -8,7 +8,7 @@ Graz, Austria (Remote-Ready)
 
 ## 💼 About Me
 
-- 6+ years building **scalable web applications**, custom CMS platforms & automation tools  
+- 7+ years building **scalable web applications**, custom CMS platforms & automation tools  
 - Strong in **Symfony**, **TypeScript**, **PHP**, and modern **DevOps** workflows  
 - Passionate about **clean, modular code**, long-term quality, and AI-powered development (ChatGPT, Cursor)  
 - Seeking **100% remote** opportunities with engineered-driven teams  
